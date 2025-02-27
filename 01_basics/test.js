@@ -1,1 +1,3 @@
-console.log("Hello World!")
+const suyash=10;
+
+console.log(suyash)
