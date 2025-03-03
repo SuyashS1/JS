@@ -56,3 +56,9 @@ console.log(a<b || b<c || c<a)
 console.log(!a);
     
 */
+
+let a=10
+let b=12
+
+let check=a>b ? 1:0
+console.log(typeof check)
