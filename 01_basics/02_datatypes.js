@@ -10,7 +10,7 @@ let fName="Suyash"
 let isTopper=false
 
 //4. BigInt
-let percentage=93.23243234234
+let percentage=9323243234234n
 
 
 //5. Undefined
@@ -20,15 +20,17 @@ let rank
 let topper=null
 
 //7. Symbol
+let id=Symbol('abc')
 
 console.table([roll_no, fName, isTopper, percentage, rank, topper])
 
-console.table(typeof roll_no)
-console.table(typeof fName)
-console.table(typeof isTopper)
-console.table(typeof percentage)
-console.table(typeof rank)
-console.table(typeof topper)
+console.log(typeof roll_no)
+console.log(typeof fName)
+console.log(typeof isTopper)
+console.log(typeof percentage)
+console.log(typeof rank)
+console.log(typeof topper)
+console.log(typeof id)
 
 
 
