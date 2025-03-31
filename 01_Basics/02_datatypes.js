@@ -27,3 +27,16 @@ console.log(typeof attendance)
 console.log(typeof year)
 console.log(typeof division)
 
+//conversion of string to number is bit confusing as "abc" connot be converted to number so it gives as NaN(Not a Number) in output
+
+// Convert to number 
+//string ==> NaN
+//null ==> 0
+//undefined ==> NaN
+//Boolean ==> 1(true) , 0(false)
+
+// Convert to string
+//Every conversion is possible
+
+
+
