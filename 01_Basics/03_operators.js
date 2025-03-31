@@ -5,6 +5,7 @@
 
 //Comparison Operators
     // > , < , >= , <= , != , == , !== , ===
+    //TypeScript does not allow to compare the data of different types(Bad idea to compare)
 
 //Assignment Operators
     // = , += , -= , *= , /= , %= , **=
