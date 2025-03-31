@@ -2,6 +2,8 @@
 
 //alert(3+3) // We are using nodejs and not the browser
 
+//Primitive Data-types
+
 //Integer 
 //String
 //Boolean
@@ -26,6 +28,14 @@ console.log(typeof registration_no)
 console.log(typeof attendance)
 console.log(typeof year)
 console.log(typeof division)
+
+
+
+//Non primitive (reference) data-types
+
+//Array
+//Object
+//Function
 
 //conversion of string to number is bit confusing as "abc" connot be converted to number so it gives as NaN(Not a Number) in output
 
