@@ -1,10 +1,10 @@
-"use sctrict" //use all JS code as newer version
+"use strict" //use all JS code as newer version
 
 //alert(3+3) // We are using nodejs and not the browser
 
 //Primitive Data-types
 
-//Integer 
+//Number
 //String
 //Boolean
 //BigInt
