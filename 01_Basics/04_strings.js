@@ -36,7 +36,7 @@ let str2="53"
 console.log(str.toUpperCase())
 console.log(str.toLowerCase())
 console.log(str.trim())
-console.log(str.includes('s'))
+console.log(str.includes('S'))
 console.log(str.slice(-10,10))
 console.log(str.replaceAll('j','i'))
 console.log(str.charAt(12))
